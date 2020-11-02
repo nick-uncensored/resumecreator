@@ -1,0 +1,43 @@
+{
+    "name": "Nick The DEV",
+    "header": [
+        {
+            "title":"DOB",
+            "content": "X August XXXX"
+        },
+        {
+            "title":"Contact",
+            "content": "+91-XXXXXXXXXX"
+        },
+        {
+            "title":"Email",
+            "content": "rajivnayanc@gmail.com"
+        }
+    ],
+    "content": [
+        {
+            "title":"Experience",
+            "content": [
+                "Campus Adda",
+                "Technovate 2020"
+            ]
+        },
+        {
+            "title":"Education",
+            "content": [
+                "B.Tech CSE, IIIT Naya Raipur",
+                "12th Class, Glenhill School",
+                "10th Class, Glenhill School"
+            ]
+        },
+        {
+            "title":"Achievements",
+            "content": [
+                "SIH University Level Hackathon: Secon Runner Up",
+                "10 SGPA in 3rd Semester",
+                "Runner Up in Website Making Competition",
+                "First Prize in Discus Throw: Annual Sports"
+            ]
+        }
+    ]
+}
